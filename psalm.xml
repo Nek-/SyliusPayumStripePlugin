@@ -37,12 +37,14 @@
         <DeprecatedClass>
             <errorLevel type="info">
                 <file name="src/StateMachine/AbstractOrderProcessor.php"/>
+                <file name="src/ApiPlatform/Sylius/StripeJsPayment.php"/>
             </errorLevel>
         </DeprecatedClass>
 
         <DeprecatedMethod>
             <errorLevel type="info">
                 <file name="src/StateMachine/AbstractOrderProcessor.php"/>
+                <file name="src/ApiPlatform/Sylius/StripeJsPayment.php"/>
             </errorLevel>
         </DeprecatedMethod>
 
